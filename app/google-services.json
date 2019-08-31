@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322209600175",
+    "firebase_url": "https://myblackspots.firebaseio.com",
+    "project_id": "myblackspots",
+    "storage_bucket": "myblackspots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322209600175:android:9f2371e6b136a54b",
+        "android_client_info": {
+          "package_name": "com.edu.aj.myblackspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322209600175-do5mous5f230fhaucqk85khmhmo58drq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtXR5qRQ5rnosWxUNtzOafoq9jZRdI4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322209600175-do5mous5f230fhaucqk85khmhmo58drq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
